@@ -2,7 +2,7 @@
 
 ссылка на проект:  https://t.me/Stoneforhouse_bot
 
-![Иллюстрация к проекту](https://github.com/djadja-Dima/AI-assist_stoun/blob/main/2025-02-26_18-27-30.png?raw=true)) 
+![Иллюстрация к проекту](https://github.com/djadja-Dima/AI-assist_stoun/blob/main/2025-02-26_18-27-30.png?raw=true)
 
 ## О проекте
 
