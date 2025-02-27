@@ -2,7 +2,7 @@
 
 ссылка на проект:  https://t.me/Stoneforhouse_bot
 
-[Скриншот 1.] https://github.com/djadja-Dima/AI-assist_stoun/blob/main/2025-02-26_18-27-30.png?raw=true
+
 
 Как настроить интеграцию Савви с AmoCRM
 
